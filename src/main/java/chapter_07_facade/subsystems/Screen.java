@@ -1,4 +1,4 @@
-package chpater_07_facade.subsystems;
+package chapter_07_facade.subsystems;
 
 public class Screen {
     public void down() {

@@ -1,6 +1,6 @@
-package chpater_07_facade;
+package chapter_07_facade;
 
-import chpater_07_facade.subsystems.*;
+import chapter_07_facade.subsystems.*;
 
 public class HomeTheaterFacade {
     Amplifier amp;
