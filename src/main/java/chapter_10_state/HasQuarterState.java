@@ -3,6 +3,7 @@ package chapter_10_state;
 import java.util.Random;
 
 public class HasQuarterState implements State {
+
     Random randomWinner = new Random(System.currentTimeMillis());
     GumballMachine gumballMachine;
 

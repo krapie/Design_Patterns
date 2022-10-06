@@ -1,6 +1,7 @@
 package chapter_10_state;
 
 public class SoldOutState implements State {
+
     GumballMachine gumballMachine;
 
     public SoldOutState(GumballMachine gumballMachine) {

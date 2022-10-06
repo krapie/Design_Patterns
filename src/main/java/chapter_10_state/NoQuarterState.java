@@ -1,6 +1,7 @@
 package chapter_10_state;
 
 public class NoQuarterState implements State {
+
     GumballMachine gumballMachine;
 
     public NoQuarterState(GumballMachine gumballMachine) {
